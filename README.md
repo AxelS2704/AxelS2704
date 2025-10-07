@@ -26,7 +26,7 @@ La página muestra en tiempo real los datos del sistema (agua recolectada, tempe
 
 ---
 
-#### 🎮 [Dashboard de FNAF](https://github.com/AxelS2704/Dashboard-FNAF)
+#### 🎮 [Dashboard de FNAF](https://github.com/AxelS2704/Fnaf-controller)
 Página web con botones interactivos inspirados en *Five Nights at Freddy’s*.  
 Originalmente diseñada para controlar un animatrónico con Arduino.  
 **Tecnologías:** HTML, CSS, JavaScript, Arduino.  
