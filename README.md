@@ -9,7 +9,6 @@ Me gusta aprender nuevas herramientas y mejorar cada proyecto que hago.
 
 ### 🧠 Tecnologías y herramientas
 - 🌐 **HTML | CSS | JavaScript básico**
-- ⚙️ **Node.js | React (nivel principiante)**
 - 🧩 **Bases de datos**
 - 🤖 **Interés en Inteligencia Artificial y automatización**
 - 🛠️ Uso de **VS Code**, **Git** y **GitHub**
